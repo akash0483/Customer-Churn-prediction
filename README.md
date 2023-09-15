@@ -1,1 +1,1 @@
-# Customer-Churn-prediction
+# Customer_churn-prediction
